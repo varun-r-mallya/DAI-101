@@ -14,12 +14,6 @@ import seaborn as sns
 from scipy import stats
 
 
-# In[2]:
-
-
-os.chdir ("C:/Users/teena/OneDrive/Documents/Data Analytics/Jupyter Work")
-
-
 # In[3]:
 
 
