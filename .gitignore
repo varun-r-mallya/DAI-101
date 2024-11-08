@@ -3,3 +3,4 @@ country_comparison_large_dataset.csv
 .ipynb_checkpoints
 .venv
 .vscode
+*.csv
